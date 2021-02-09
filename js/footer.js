@@ -16,7 +16,7 @@
 
         link04: '<a href="resturant.html">Restaurent</a>',
        
-	    link06: '<a href="gallery.html">Our Gallery</a>',
+	    link06: '<a href="our_galllery.html">Our Gallery</a>',
         
 		link05: '<a href="contact.html">Contact Us</a>',
 
