@@ -124,7 +124,7 @@ var my_Content = function() {
 										<div class="item ">
                                            <img src="${myContent[0].image08}" alt="" style="width:100%;">
                                         
-                                        </div>
+                                         </div>
 										
                                         
                                         </div>
@@ -249,6 +249,7 @@ var reception = function() {
 			  </div>
 			  <div class="col-md-6">
 			      <div class="my_blog">
+                                       <br>
 				      <img src="${jason10[0].img_1}" class="img-responsive">
 				  </div>
 			  </div>
