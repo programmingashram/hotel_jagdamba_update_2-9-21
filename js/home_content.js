@@ -243,7 +243,7 @@ var reception = function() {
 						  
 					  </ul>
 					  <br>
-                      <a href="#tel:07752357487" class="my_btn_1">Call Now</a>					   
+                      <a href="tel:07752357487" class="my_btn_1">Call Now</a>					   
 					  
 				  </div>
 			  </div>
