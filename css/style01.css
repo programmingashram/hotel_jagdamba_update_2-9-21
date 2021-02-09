@@ -1,0 +1,18 @@
+section {
+   
+    padding: 30px 10px;
+	 backdrop-filter: blur(5px);
+   
+}
+
+.my_gallery img{
+	height: 215px!important;
+	margin:10px 0px;
+	width:100%!important;
+}
+
+   @media (max-width: 1200px){
+	section {
+		padding: 20px 0px!important;
+	}
+}
