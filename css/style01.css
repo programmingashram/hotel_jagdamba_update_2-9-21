@@ -4,6 +4,9 @@ section {
 	backdrop-filter: blur(5px);
    
 }
+.demo{
+	padding: 0%;
+}
 
 .my_gallery img{
 	height: 215px!important;
