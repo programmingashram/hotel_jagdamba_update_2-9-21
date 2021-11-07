@@ -7,7 +7,7 @@ section {
 .demo{
 	padding: 0%;
 }
-
+.margin{}
 .my_gallery img{
 	height: 215px!important;
 	margin:10px 0px;
