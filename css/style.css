@@ -1,6 +1,11 @@
 * {
+<<<<<<< HEAD
     margin: 0px;
     padding: 0px;
+=======
+    margin: 0 px;
+    padding:  0px;
+>>>>>>> cd0c83f81b4da15ddbd36557df41674577bec52c
     box-sizing: border-box;
 }
 
